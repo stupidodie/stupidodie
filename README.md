@@ -26,6 +26,8 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 - 📫 Contact me: [taiguanran@gmail.com](mailto:taiguanran@gmail.com) [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
 
 
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
 <!--START_SECTION:waka-->
 ```text
 JSON    59 mins         ██████████████░░░░░░░░░░░   56.22 % 
