@@ -1,3 +1,5 @@
+<img align="right" alt="stupidodie's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=stupidodie&show_icons=true">
+
 ### Hi，Guanran Tai Here！ 👋
 
 <!--
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="stupidodie's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=stupidodie&show_icons=true">
 
 I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
