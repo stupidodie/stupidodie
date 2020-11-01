@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Guanran Tai 👋
 
 <!--
 **stupidodie/stupidodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=stupidodie)
+
 - 🔭 I’m currently a stduent。
 - 🌱 I’m currently learning Computer System.
+- 📫 How to contact me: [taiguanran@gmail.com](mailto:taiguanran@gmail.com) [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
+![](https://github-readme-stats.vercel.app/api?username=stupidodie)
