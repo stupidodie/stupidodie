@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a stduent。
 - 🌱 I’m currently learning Computer System.
 - 📫 How to contact me: [taiguanran@gmail.com](mailto:taiguanran@gmail.com) [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
+
 ![](https://github-readme-stats.vercel.app/api?username=stupidodie)
