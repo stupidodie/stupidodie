@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=stupidodie)
+- 🔭 I’m currently a stduent。
+- 🌱 I’m currently learning Computer System.
