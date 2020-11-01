@@ -28,6 +28,31 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/guyaqi">
+        <img src="https://avatars2.githubusercontent.com/u/26341682" width="100px;" alt="guyaqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/guyaqi">Guyaqi</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Miraling">
+        <img src="https://avatars2.githubusercontent.com/u/46867770" width="100px;" alt="Miraling"/>
+      </a>
+      <br />
+      <a href="https://github.com/Miraling">林柏澜</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spking11">
+        <img src="https://avatars2.githubusercontent.com/u/52597061" width="100px;" alt="spking11"/>
+      </a>
+      <br />
+      <a href="https://github.com/spking11">spking11</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 <!--START_SECTION:waka-->
