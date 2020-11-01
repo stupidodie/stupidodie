@@ -26,6 +26,7 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 - 📫 Contact me: [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
 
+#### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
