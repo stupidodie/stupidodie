@@ -1,4 +1,4 @@
-### Hi I'm Guanran Tai 👋
+### Hi，Guanran Tai Here！ 👋
 
 <!--
 **stupidodie/stupidodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" alt="stupidodie's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=stupidodie&show_icons=true">
 
-- 🔭 I’m currently a stduent.
+I'm Guanran Tai. A senior undergraduate stduent in UESTC.
+
+- 🔭 A stduent.
 
 - 🌱 I’m currently learning Computer System.
 
