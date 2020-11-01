@@ -1,6 +1,7 @@
 name: Get Top Followers
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
