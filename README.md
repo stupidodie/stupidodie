@@ -23,7 +23,7 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 - 🌱 I’m currently learning Computer System.
 
-- 📫 Contact me: [taiguanran@gmail.com](mailto:taiguanran@gmail.com) [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
+- 📫 Contact me: [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
 
 
 <!--START_SECTION:top-followers-->
