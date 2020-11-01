@@ -33,4 +33,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          token_key: ${{ secrets.TOKEN_KEY }}
+          TOKEN_KEY: ${{ secrets.TOKEN_KEY }}
