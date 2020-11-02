@@ -33,4 +33,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
+        #modified this value name by stupidodie
           github_token: ${{ secrets.TOKEN_KEY }}
