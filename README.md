@@ -60,7 +60,6 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-Go      49 mins         ████████████████████▒░░░░   81.43 % 
-JSON    11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Go      26 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
