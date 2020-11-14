@@ -54,6 +54,13 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
       <br />
       <a href="https://github.com/spking11">spking11</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ArcherMincho">
+        <img src="https://avatars2.githubusercontent.com/u/43512045" width="100px;" alt="ArcherMincho"/>
+      </a>
+      <br />
+      <a href="https://github.com/ArcherMincho">Echo</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
