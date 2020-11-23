@@ -67,9 +67,10 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 mins         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-JavaScript   12 mins         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-JSON         10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Julia        8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+TOML         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Rust         13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Python       12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 % 
+JavaScript   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 % 
+JSON         11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 <!--END_SECTION:waka-->
