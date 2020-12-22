@@ -67,8 +67,8 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-HTML       26 mins         ███████████▓░░░░░░░░░░░░░   46.05 % 
-TeX        15 mins         ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-JSON       14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 % 
+HTML       19 mins         █████████▓░░░░░░░░░░░░░░░   38.32 % 
+TeX        15 mins         ████████░░░░░░░░░░░░░░░░░   31.50 % 
+JSON       14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
 ```
 <!--END_SECTION:waka-->
