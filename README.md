@@ -67,8 +67,9 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-C++        39 mins         ███████████▓░░░░░░░░░░░░░   46.49 % 
-TeX        38 mins         ███████████▒░░░░░░░░░░░░░   44.87 % 
-CMake      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+TeX        2 hrs 24 mins   ██████████████████▓░░░░░░   74.90 % 
+C++        39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+CMake      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+BibTeX     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
