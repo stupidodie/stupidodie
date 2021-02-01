@@ -48,6 +48,13 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
       <a href="https://github.com/Miraling">林柏澜</a>
     </td>
     <td align="center">
+      <a href="https://github.com/initpwn">
+        <img src="https://avatars2.githubusercontent.com/u/12695743" width="100px;" alt="initpwn"/>
+      </a>
+      <br />
+      <a href="https://github.com/initpwn">Joseph Philip</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/spking11">
         <img src="https://avatars2.githubusercontent.com/u/52597061" width="100px;" alt="spking11"/>
       </a>
