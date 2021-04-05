@@ -34,18 +34,18 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/guyaqi">
-        <img src="https://avatars2.githubusercontent.com/u/26341682" width="100px;" alt="guyaqi"/>
-      </a>
-      <br />
-      <a href="https://github.com/guyaqi">Guyaqi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mnkhod">
         <img src="https://avatars2.githubusercontent.com/u/46494779" width="100px;" alt="mnkhod"/>
       </a>
       <br />
       <a href="https://github.com/mnkhod">Nick David</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guyaqi">
+        <img src="https://avatars2.githubusercontent.com/u/26341682" width="100px;" alt="guyaqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/guyaqi">Guyaqi</a>
     </td>
     <td align="center">
       <a href="https://github.com/Miraling">
