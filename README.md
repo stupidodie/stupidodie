@@ -74,9 +74,9 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-Scheme   2 hrs 21 mins   ████████████████▓░░░░░░░░   66.71 % 
-Other    49 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Go       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-TeX      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Scheme   1 hr 39 mins    ██████████████▓░░░░░░░░░░   58.62 % 
+Other    49 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 % 
+Go       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TeX      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
