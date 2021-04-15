@@ -74,6 +74,6 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-Go     11 mins         ████████████████████████░   95.37 % 
+
 ```
 <!--END_SECTION:waka-->
