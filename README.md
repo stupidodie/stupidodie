@@ -74,10 +74,10 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 45 mins  ███████████████████▓░░░░░   78.12 % 
-Markdown     1 hr 52 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Scheme       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-SQL          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript   15 hrs 4 mins   ████████████████████░░░░░   79.63 % 
+Markdown     1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Scheme       48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+SQL          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
