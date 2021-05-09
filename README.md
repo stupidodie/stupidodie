@@ -74,10 +74,10 @@ I'm Guanran Tai. A senior undergraduate stduent in UESTC.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 16 mins   █████████████████████▒░░░   85.82 % 
-Vue.js       37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JavaScript   5 hrs 37 mins   ██████████████░░░░░░░░░░░   56.47 % 
+Vue.js       3 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.55 % 
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
