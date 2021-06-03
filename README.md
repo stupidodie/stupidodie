@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="stupidodie's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=stupidodie&show_icons=true">
 
-I'm Guanran Tai. A senior undergraduate stduent in UESTC. Now I'm an incoming student in the University of Copenhagen。
+I'm Guanran Tai. A senior undergraduate stduent in UESTC. 
+
+Now I'm an incoming student at University of Copenhagen.
 
 - 🔭 A stduent.
 
