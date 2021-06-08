@@ -76,10 +76,10 @@ Now I'm an incoming student at University of Copenhagen.
 
 <!--START_SECTION:waka-->
 ```text
-C++            36 mins         ██████████▒░░░░░░░░░░░░░░   41.17 % 
-TeX            32 mins         █████████░░░░░░░░░░░░░░░░   35.98 % 
-OpenEdge ABL   15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
-JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Markdown       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+TeX            32 mins         ██████████████▒░░░░░░░░░░   56.93 % 
+OpenEdge ABL   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 % 
+JSON           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Emacs Lisp     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->
