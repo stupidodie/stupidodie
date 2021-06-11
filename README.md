@@ -76,10 +76,7 @@ Now I'm an incoming student at University of Copenhagen.
 
 <!--START_SECTION:waka-->
 ```text
-TeX            32 mins         ██████████████▒░░░░░░░░░░   56.93 % 
-OpenEdge ABL   15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 % 
-JSON           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Markdown       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Emacs Lisp     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Emacs Lisp   2 mins          █████████████▓░░░░░░░░░░░   54.53 % 
+C            1 min           ██████████░░░░░░░░░░░░░░░   39.66 % 
 ```
 <!--END_SECTION:waka-->
