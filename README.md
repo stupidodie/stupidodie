@@ -76,9 +76,9 @@ Now I'm an incoming student at University of Copenhagen.
 
 <!--START_SECTION:waka-->
 ```text
-C            16 mins         ██████████▒░░░░░░░░░░░░░░   41.49 % 
-JSON         16 mins         ██████████▒░░░░░░░░░░░░░░   41.10 % 
-JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Emacs Lisp   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+JSON         17 mins         ██████████▓░░░░░░░░░░░░░░   42.10 % 
+C            16 mins         ██████████▒░░░░░░░░░░░░░░   40.79 % 
+JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Emacs Lisp   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 <!--END_SECTION:waka-->
