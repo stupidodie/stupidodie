@@ -76,6 +76,6 @@ Now I'm an incoming student at University of Copenhagen.
 
 <!--START_SECTION:waka-->
 ```text
-
+JSON     1 min           ████████████████▓░░░░░░░░   66.66 % 
 ```
 <!--END_SECTION:waka-->
