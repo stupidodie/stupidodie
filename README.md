@@ -28,7 +28,7 @@ Now I'm an incoming student at University of Copenhagen.
 
 - 📫 Contact me: [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
 
-- 🤔 ~~Here is [Guanran Tai's Blog](https://stupidodie.github.io/Blog/#/)~~(打算重新搭一个Blog,挖坑).
+- 🤔 Here is [Guanran Tai's Blog](https://stupidodie.github.io).
 
 #### :sparkles: My Followers
 
