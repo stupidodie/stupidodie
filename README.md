@@ -1,4 +1,4 @@
-### Hi，Guanran Tai Here！ 👋
+### Hi, Guanran Tai Here！ 👋
 
 ------
 
