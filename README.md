@@ -74,10 +74,10 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 
 <!--START_SECTION:waka-->
 ```text
-Haskell    29 hrs 33 mins  ████████████████████████▓   98.34 % 
-Other      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Haskell    26 hrs 45 mins  ███████████████████████▒░   93.38 % 
+Other      1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Boa        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
