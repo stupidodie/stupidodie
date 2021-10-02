@@ -38,7 +38,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
         <img src="https://avatars2.githubusercontent.com/u/46494779" width="100px;" alt="mnkhod"/>
       </a>
       <br />
-      <a href="https://github.com/mnkhod">Nick David</a>
+      <a href="https://github.com/mnkhod">Munkh-Od</a>
     </td>
     <td align="center">
       <a href="https://github.com/guyaqi">
