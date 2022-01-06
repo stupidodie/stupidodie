@@ -24,7 +24,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 
 - 🌱 I’m currently learning Computer System.
 
-- 📫 Contact me: [QQ:1134091690](http://wpa.qq.com/msgrd?v=3&uin=1134091690&site=qq&menu=yes)
+- 📫 Contact me: [Guanran Tai](https://www.facebook.com/guanran.tai.3)
 
 - 🤔 Here is [Guanran Tai's Blog](https://stupidodie.github.io).
 
