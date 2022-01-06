@@ -22,7 +22,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 
 - 🔭 A stduent.
 
-- 🌱 I’m currently learning Computer System.
+- 🌱 I’m currently learning Database System and Programming Language.
 
 - 📫 Contact me: [Guanran Tai's Facebook](https://www.facebook.com/guanran.tai.3)
 
