@@ -76,6 +76,15 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/ArcherMincho">Echo</a>
     </td>
     <td align="center">
+      <a href="https://github.com/yinghanJ">
+        <img src="https://avatars2.githubusercontent.com/u/91055507" width="100px;" alt="yinghanJ"/>
+      </a>
+      <br />
+      <a href="https://github.com/yinghanJ">Yinghan Jiang</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/spking11">
         <img src="https://avatars2.githubusercontent.com/u/52597061" width="100px;" alt="spking11"/>
       </a>
