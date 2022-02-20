@@ -26,7 +26,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 
 - 📫 Contact me: [Guanran Tai's Facebook](https://www.facebook.com/guanran.tai.3)
 
-- 🤔 Here is [Guanran Tai's Blog](https://stupidodie.github.io).
+- 🤔 Here is [Guanran Tai's Blog](https://guanran-tai.netlify.app).
 
 #### :sparkles: My Followers
 
