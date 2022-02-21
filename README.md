@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm Guanran Tai. A graduate student at University of Copenhagen.
 
-- 🔭 A stduent.
+- 🔭 A student.
 
 - 🌱 I’m currently learning Database System and Programming Language.
 
