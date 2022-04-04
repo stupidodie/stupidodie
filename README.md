@@ -38,7 +38,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
         <img src="https://avatars2.githubusercontent.com/u/12621034" width="100px;" alt="m0rp43us"/>
       </a>
       <br />
-      <a href="https://github.com/m0rp43us">Wail .C</a>
+      <a href="https://github.com/m0rp43us">m0rp43us</a>
     </td>
     <td align="center">
       <a href="https://github.com/mnkhod">
