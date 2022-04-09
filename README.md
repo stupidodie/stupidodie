@@ -105,12 +105,12 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         12 hrs 28 mins  █████████████▓░░░░░░░░░░░   54.05 %
-C++          6 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-TOML         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Bash         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-TypeScript   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Rust         14 hrs 58 mins  ███████████████▓░░░░░░░░░   62.17 %
+C++          6 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+TOML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Bash         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Docker       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
