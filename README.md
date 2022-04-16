@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I'm Guanran Tai. A graduate student at University of Copenhagen.
 
+
 - 🔭 A student.
 
 - 🌱 I’m currently learning Database System and Programming Language.
@@ -27,6 +28,8 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 - 📫 Contact me: [Guanran Tai's Facebook](https://www.facebook.com/guanran.tai.3)
 
 - 🤔 Here is [Guanran Tai's Blog](https://guanran-tai.netlify.app).
+
+[![wakatime](https://wakatime.com/badge/user/575c4d56-9b9c-439e-9bea-5d46e7c399ce.svg)](https://wakatime.com/@575c4d56-9b9c-439e-9bea-5d46e7c399ce)
 
 #### :sparkles: My Followers
 
