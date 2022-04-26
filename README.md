@@ -48,7 +48,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
         <img src="https://avatars2.githubusercontent.com/u/9186470" width="100px;" alt="lzlniu"/>
       </a>
       <br />
-      <a href="https://github.com/lzlniu">LiDeer</a>
+      <a href="https://github.com/lzlniu">Zelin Li</a>
     </td>
     <td align="center">
       <a href="https://github.com/guyaqi">
