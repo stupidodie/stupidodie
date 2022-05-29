@@ -101,12 +101,8 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 24 mins    ███████████████████▓░░░░░   78.78 %
-JSON         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-C            5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Batchfile    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Makefile     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JavaScript   1 hr 24 mins    ██████████████████████▒░░   89.74 %
+JSON         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
 ```
 
 <!--END_SECTION:waka-->
