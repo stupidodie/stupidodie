@@ -108,7 +108,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++   44 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
