@@ -101,6 +101,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <br />
       <a href="https://github.com/ArcherMincho">Echo</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/zhexiangzhang">
+        <img src="https://avatars2.githubusercontent.com/u/115783259" width="100px;" alt="zhexiangzhang"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhexiangzhang">zhexiangzhang</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
