@@ -88,6 +88,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/LyuHe-uestc">
+        <img src="https://avatars2.githubusercontent.com/u/55078368" width="100px;" alt="LyuHe-uestc"/>
+      </a>
+      <br />
+      <a href="https://github.com/LyuHe-uestc">吕赫 ( Lyu He )</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/spking11">
         <img src="https://avatars2.githubusercontent.com/u/52597061" width="100px;" alt="spking11"/>
       </a>
