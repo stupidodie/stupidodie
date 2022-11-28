@@ -122,12 +122,12 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-Java              6 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.71 %
-Python            6 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.47 %
-Go                2 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-JSON              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java              6 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   39.22 %
+Python            6 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.00 %
+Go                2 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+JSON              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Markdown          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
