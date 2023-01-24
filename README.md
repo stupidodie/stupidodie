@@ -122,8 +122,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-Elixir   15 mins         ████████████████████▒░░░░   80.87 %
-JSON     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
