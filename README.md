@@ -58,6 +58,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/guyaqi">Guyaqi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/drobnyd">
+        <img src="https://avatars2.githubusercontent.com/u/30272884" width="100px;" alt="drobnyd"/>
+      </a>
+      <br />
+      <a href="https://github.com/drobnyd">Denis Drobny</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TheLZY">
         <img src="https://avatars2.githubusercontent.com/u/32624562" width="100px;" alt="TheLZY"/>
       </a>
@@ -78,6 +85,8 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <br />
       <a href="https://github.com/Miraling">林柏澜</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LyuHe-uestc">
         <img src="https://avatars2.githubusercontent.com/u/55078368" width="100px;" alt="LyuHe-uestc"/>
@@ -85,8 +94,6 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <br />
       <a href="https://github.com/LyuHe-uestc">吕赫 ( Lyu He )</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/ArcherMincho">
         <img src="https://avatars2.githubusercontent.com/u/43512045" width="100px;" alt="ArcherMincho"/>
