@@ -113,7 +113,7 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
         <img src="https://avatars2.githubusercontent.com/u/115783259" width="100px;" alt="zhexiangzhang"/>
       </a>
       <br />
-      <a href="https://github.com/zhexiangzhang">zhexiangzhang</a>
+      <a href="https://github.com/zhexiangzhang">Somniloquy</a>
     </td>
     <td align="center">
       <a href="https://github.com/YuyakeSys">
