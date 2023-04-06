@@ -129,12 +129,12 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 <!--START_SECTION:waka-->
 
 ```text
-Standard ML   7 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.68 %
-Elixir        3 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.67 %
-Python        1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Bash          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-JSON          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Standard ML   7 hrs 30 mins   █████████████░░░░░░░░░░░░   52.49 %
+Elixir        4 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Python        1 hr 57 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Bash          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+YAML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
