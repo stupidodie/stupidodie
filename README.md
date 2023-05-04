@@ -95,11 +95,11 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/Miraling">林柏澜</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LyuHe-uestc">
-        <img src="https://avatars2.githubusercontent.com/u/55078368" width="100px;" alt="LyuHe-uestc"/>
+      <a href="https://github.com/LyuH3">
+        <img src="https://avatars2.githubusercontent.com/u/55078368" width="100px;" alt="LyuH3"/>
       </a>
       <br />
-      <a href="https://github.com/LyuHe-uestc">吕赫 ( Lyu He )</a>
+      <a href="https://github.com/LyuH3">吕赫 ( Lyu He )</a>
     </td>
     <td align="center">
       <a href="https://github.com/spking11">
