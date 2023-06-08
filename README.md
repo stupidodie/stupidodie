@@ -123,6 +123,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/zhexiangzhang">Somniloquy</a>
     </td>
     <td align="center">
+      <a href="https://github.com/toum120">
+        <img src="https://avatars2.githubusercontent.com/u/57785890" width="100px;" alt="toum120"/>
+      </a>
+      <br />
+      <a href="https://github.com/toum120">公鸡</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/YuyakeSys">
         <img src="https://avatars2.githubusercontent.com/u/75210411" width="100px;" alt="YuyakeSys"/>
       </a>
