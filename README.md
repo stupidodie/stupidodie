@@ -65,6 +65,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/guyaqi">Guyaqi</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zbejas">
+        <img src="https://avatars2.githubusercontent.com/u/5880434" width="100px;" alt="zbejas"/>
+      </a>
+      <br />
+      <a href="https://github.com/zbejas">Anže Mavrič</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TheLZY">
         <img src="https://avatars2.githubusercontent.com/u/32624562" width="100px;" alt="TheLZY"/>
       </a>
@@ -78,6 +85,8 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <br />
       <a href="https://github.com/drobnyd">Denis Drobny</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yinghanJ">
         <img src="https://avatars2.githubusercontent.com/u/91055507" width="100px;" alt="yinghanJ"/>
@@ -85,8 +94,6 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <br />
       <a href="https://github.com/yinghanJ">Yinghan Jiang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Miraling">
         <img src="https://avatars2.githubusercontent.com/u/46867770" width="100px;" alt="Miraling"/>
@@ -128,13 +135,6 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       </a>
       <br />
       <a href="https://github.com/toum120">公鸡</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YuyakeSys">
-        <img src="https://avatars2.githubusercontent.com/u/75210411" width="100px;" alt="YuyakeSys"/>
-      </a>
-      <br />
-      <a href="https://github.com/YuyakeSys">CheserMeng</a>
     </td>
   </tr>
 </table>
