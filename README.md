@@ -44,6 +44,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/m0rp43us">m0rp43us</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zbejas">
+        <img src="https://avatars2.githubusercontent.com/u/5880434" width="100px;" alt="zbejas"/>
+      </a>
+      <br />
+      <a href="https://github.com/zbejas">Anže Mavrič</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Weijun-H">
         <img src="https://avatars2.githubusercontent.com/u/20267695" width="100px;" alt="Weijun-H"/>
       </a>
@@ -63,13 +70,6 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       </a>
       <br />
       <a href="https://github.com/guyaqi">Guyaqi</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zbejas">
-        <img src="https://avatars2.githubusercontent.com/u/5880434" width="100px;" alt="zbejas"/>
-      </a>
-      <br />
-      <a href="https://github.com/zbejas">Anže Mavrič</a>
     </td>
     <td align="center">
       <a href="https://github.com/TheLZY">
