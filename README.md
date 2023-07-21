@@ -58,18 +58,18 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/lzlniu">Zelin Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guyaqi">
-        <img src="https://avatars2.githubusercontent.com/u/26341682" width="100px;" alt="guyaqi"/>
-      </a>
-      <br />
-      <a href="https://github.com/guyaqi">Guyaqi</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TheLZY">
         <img src="https://avatars2.githubusercontent.com/u/32624562" width="100px;" alt="TheLZY"/>
       </a>
       <br />
       <a href="https://github.com/TheLZY">LZY</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guyaqi">
+        <img src="https://avatars2.githubusercontent.com/u/26341682" width="100px;" alt="guyaqi"/>
+      </a>
+      <br />
+      <a href="https://github.com/guyaqi">Guyaqi</a>
     </td>
     <td align="center">
       <a href="https://github.com/drobnyd">
