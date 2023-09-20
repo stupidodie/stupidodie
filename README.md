@@ -116,13 +116,6 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       <a href="https://github.com/ArcherMincho">Echo</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zhexiangzhang">
-        <img src="https://avatars2.githubusercontent.com/u/115783259" width="100px;" alt="zhexiangzhang"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhexiangzhang">Zhexiang Zhang</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/toum120">
         <img src="https://avatars2.githubusercontent.com/u/57785890" width="100px;" alt="toum120"/>
       </a>
@@ -135,6 +128,13 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
       </a>
       <br />
       <a href="https://github.com/YuyakeSys">CheserMeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YuejiaoShi">
+        <img src="https://avatars2.githubusercontent.com/u/142339102" width="100px;" alt="YuejiaoShi"/>
+      </a>
+      <br />
+      <a href="https://github.com/YuejiaoShi">YuejiaoShi</a>
     </td>
   </tr>
 </table>
