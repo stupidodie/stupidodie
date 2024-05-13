@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="stupidodie's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=stupidodie&show_icons=true">
 
-I'm Guanran Tai. A graduate student at University of Copenhagen.
-
-
-- 🔭 A student.
+I'm Guanran Tai.
 
 - 🌱 I’m currently interested in distributed system and functional programming language.
 
 - 📫 Contact me: [Guanran Tai's Facebook](https://www.facebook.com/guanran.tai.3)
 
 - 🤔 Here is [Guanran Tai's Blog](https://guanran-tai.netlify.app).
-
-[![wakatime](https://wakatime.com/badge/user/575c4d56-9b9c-439e-9bea-5d46e7c399ce.svg)](https://wakatime.com/@575c4d56-9b9c-439e-9bea-5d46e7c399ce)
 
 #### :sparkles: My Followers
 
@@ -140,10 +135,3 @@ I'm Guanran Tai. A graduate student at University of Copenhagen.
 </table>
 <!--END_SECTION:top-followers-->
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
