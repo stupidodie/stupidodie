@@ -24,8 +24,6 @@ I'm Guanran Tai.
 
 - 📫 Contact me: [Guanran Tai's Facebook](https://www.facebook.com/guanran.tai.3)
 
-- 🤔 Here is [Guanran Tai's Blog](https://guanran-tai.netlify.app).
-
 #### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
